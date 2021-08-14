@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Myresume/static/css/main.d4551aae.chunk.css",
-    "main.js": "/Myresume/static/js/main.44ca3924.chunk.js",
-    "main.js.map": "/Myresume/static/js/main.44ca3924.chunk.js.map",
-    "runtime-main.js": "/Myresume/static/js/runtime-main.fd502e58.js",
-    "runtime-main.js.map": "/Myresume/static/js/runtime-main.fd502e58.js.map",
-    "static/js/2.b5a32fe5.chunk.js": "/Myresume/static/js/2.b5a32fe5.chunk.js",
-    "static/js/2.b5a32fe5.chunk.js.map": "/Myresume/static/js/2.b5a32fe5.chunk.js.map",
-    "static/js/3.1a0adec3.chunk.js": "/Myresume/static/js/3.1a0adec3.chunk.js",
-    "static/js/3.1a0adec3.chunk.js.map": "/Myresume/static/js/3.1a0adec3.chunk.js.map",
+    "main.js": "/Myresume/static/js/main.c8dece59.chunk.js",
+    "main.js.map": "/Myresume/static/js/main.c8dece59.chunk.js.map",
+    "runtime-main.js": "/Myresume/static/js/runtime-main.0ab027d1.js",
+    "runtime-main.js.map": "/Myresume/static/js/runtime-main.0ab027d1.js.map",
+    "static/js/2.35abee2f.chunk.js": "/Myresume/static/js/2.35abee2f.chunk.js",
+    "static/js/2.35abee2f.chunk.js.map": "/Myresume/static/js/2.35abee2f.chunk.js.map",
+    "static/js/3.f8b907d8.chunk.js": "/Myresume/static/js/3.f8b907d8.chunk.js",
+    "static/js/3.f8b907d8.chunk.js.map": "/Myresume/static/js/3.f8b907d8.chunk.js.map",
     "index.html": "/Myresume/index.html",
     "static/css/main.d4551aae.chunk.css.map": "/Myresume/static/css/main.d4551aae.chunk.css.map",
-    "static/js/2.b5a32fe5.chunk.js.LICENSE.txt": "/Myresume/static/js/2.b5a32fe5.chunk.js.LICENSE.txt",
+    "static/js/2.35abee2f.chunk.js.LICENSE.txt": "/Myresume/static/js/2.35abee2f.chunk.js.LICENSE.txt",
     "static/media/Academic.9e53351b.png": "/Myresume/static/media/Academic.9e53351b.png",
     "static/media/Certificate.d07df024.png": "/Myresume/static/media/Certificate.d07df024.png",
     "static/media/Projects.e78200f8.png": "/Myresume/static/media/Projects.e78200f8.png",
@@ -25,9 +25,9 @@
     "static/media/skills.e30de701.png": "/Myresume/static/media/skills.e30de701.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd502e58.js",
-    "static/js/2.b5a32fe5.chunk.js",
+    "static/js/runtime-main.0ab027d1.js",
+    "static/js/2.35abee2f.chunk.js",
     "static/css/main.d4551aae.chunk.css",
-    "static/js/main.44ca3924.chunk.js"
+    "static/js/main.c8dece59.chunk.js"
   ]
 }
