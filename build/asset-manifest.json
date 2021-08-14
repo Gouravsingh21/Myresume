@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Myresume/static/css/main.d4551aae.chunk.css",
+    "main.js": "/Myresume/static/js/main.c8dece59.chunk.js",
+    "main.js.map": "/Myresume/static/js/main.c8dece59.chunk.js.map",
+    "runtime-main.js": "/Myresume/static/js/runtime-main.0ab027d1.js",
+    "runtime-main.js.map": "/Myresume/static/js/runtime-main.0ab027d1.js.map",
+    "static/js/2.35abee2f.chunk.js": "/Myresume/static/js/2.35abee2f.chunk.js",
+    "static/js/2.35abee2f.chunk.js.map": "/Myresume/static/js/2.35abee2f.chunk.js.map",
+    "static/js/3.f8b907d8.chunk.js": "/Myresume/static/js/3.f8b907d8.chunk.js",
+    "static/js/3.f8b907d8.chunk.js.map": "/Myresume/static/js/3.f8b907d8.chunk.js.map",
+    "index.html": "/Myresume/index.html",
+    "static/css/main.d4551aae.chunk.css.map": "/Myresume/static/css/main.d4551aae.chunk.css.map",
+    "static/js/2.35abee2f.chunk.js.LICENSE.txt": "/Myresume/static/js/2.35abee2f.chunk.js.LICENSE.txt",
+    "static/media/Academic.9e53351b.png": "/Myresume/static/media/Academic.9e53351b.png",
+    "static/media/Certificate.d07df024.png": "/Myresume/static/media/Certificate.d07df024.png",
+    "static/media/Projects.e78200f8.png": "/Myresume/static/media/Projects.e78200f8.png",
+    "static/media/element_ai.9d886dc8.JPG": "/Myresume/static/media/element_ai.9d886dc8.JPG",
+    "static/media/hack.de57d3e6.JPG": "/Myresume/static/media/hack.de57d3e6.JPG",
+    "static/media/html.2956fc6a.JPG": "/Myresume/static/media/html.2956fc6a.JPG",
+    "static/media/myphoto.92910d29.jpg": "/Myresume/static/media/myphoto.92910d29.jpg",
+    "static/media/python_database.da2ce0bf.png": "/Myresume/static/media/python_database.da2ce0bf.png",
+    "static/media/python_web_data.65ee1e47.png": "/Myresume/static/media/python_web_data.65ee1e47.png",
+    "static/media/pythonbasic.0b6529fd.png": "/Myresume/static/media/pythonbasic.0b6529fd.png",
+    "static/media/skills.e30de701.png": "/Myresume/static/media/skills.e30de701.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab027d1.js",
+    "static/js/2.35abee2f.chunk.js",
+    "static/css/main.d4551aae.chunk.css",
+    "static/js/main.c8dece59.chunk.js"
+  ]
+}
