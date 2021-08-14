@@ -1,6 +1,6 @@
 {
   "name": "resume",
-  "homepage": "https://gouravsingh21.github.io/Myresume/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-router-dom": "^5.1.8",
     "gh-pages": "^3.2.3"
   }
 }
