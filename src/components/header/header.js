@@ -3,7 +3,7 @@ function Header() {
   return (
     <div>
       <nav className="navbar navbar-dark navbar-expand p-1" style={{backgroundColor: "#8A2BE2"}}>
-        <Link className="navbar-brand mx-3" to="/">
+        <Link className="navbar-brand mx-3" to="/Myresume">
           <i className="fa fa-home mx-1"></i>
             HOME
         </Link>

@@ -23,7 +23,7 @@ function Jumbotron() {
 					 	</em>
 					 </h2>
 					<h4 className='display-6' style={{fontFamily: "ui-monospace",color: "orangered",textShadow:"2px 2px orange"}}>
-					** Inrovert but friendly,Hardwork 
+					** Introvert but friendly,Hardwork 
 					and extremely focus on work **</h4>
 				</div>
 			</div>

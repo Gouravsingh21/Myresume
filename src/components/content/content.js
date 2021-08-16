@@ -36,7 +36,7 @@ function Content() {
 			<div className='row text-center'>
 
 				<div className='col mt-5 d-flex justify-content-center'>
-					<Link to="certificate/">
+					<Link to="/certificate">
 						<div className="card" style={{width: "20rem"}}>
 						  <img src={Certificate} className="card-img-top" style={{width: "20rem" ,height:'15rem'}} alt="Certificate"/>
 						  <div className="card-body">
@@ -47,7 +47,7 @@ function Content() {
 				</div>
 
 				<div className='col mt-5 d-flex justify-content-center'>
-					<Link to="project/">
+					<Link to="/project">
 						<div className="card" style={{width: "20rem"}}>
 						  <img src={Project} className="card-img-top"  style={{width: "20rem" ,height:'15rem'}} alt="project"/>
 						  <div className="card-body">
