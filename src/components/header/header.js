@@ -9,10 +9,10 @@ function Header() {
         </Link>
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
           <li className="nav-item">
-            <Link className="nav-link active" to="/contact">
+            {/*<Link className="nav-link active" to="/contact">
               <i className="fa fa-address-book mx-1"></i>
               CONTACT ME
-            </Link>
+            </Link>*/}
           </li>
         </ul>
       </nav>

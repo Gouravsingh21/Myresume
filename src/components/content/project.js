@@ -71,9 +71,23 @@ function Project(){
 				<div className="col-10 mt-5">
 					<h1 className="display-6 text-center animate__animated animate__backInLeft"
 						style={{fontFamily: "oxygen",color: "orangered",textShadow:"2px 2px yellow"}}>
-						Data Analaysis(Working)
+						datanalyze
 					</h1>
-					<h1 className="text-success h2">Continue..........</h1>
+					<h1 className="text-success h2">AIM</h1>
+					<h5 className="text-primary">This project provides the data analytics on csv or excel data to the user as well as provides data visualization		 
+					</h5>
+					<h3 className="text-danger">Tech Stack Used in project</h3>
+					<ol className="text-primary">
+					  <li>Django</li>
+					  <li>CSS</li>
+					  <li>Bootstrap</li>
+					  <li>Animations</li>
+					  <li>Javascript</li>
+					  <li>Sqlite</li>
+					</ol>
+					<button className="btn btn-warning">
+						<a href="https://datanalyze.net/" className="text-outline-warning" target="blank">View Project</a>
+					</button>
 				</div>	
 			</div>
 			<Footer/>

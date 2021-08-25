@@ -1,4 +1,4 @@
-import myphoto from "../../assets/myphoto.jpg";
+import myphoto from "../../assets/profilephoto.png";
 
 function Jumbotron() {
 	return (
@@ -21,7 +21,9 @@ function Jumbotron() {
 						specialise in django
 					 	with a keen interest in Data Science 
 					 	</em>
-					 </h2>
+					</h2>
+					<h4 className='display-6' style={{fontFamily: "ui-monospace",color: "royalblue",textShadow:"2px 2px yellow"}}>
+					 My Startup <u className="text-danger"> datanalyze.net </u> provides data analytics  on big data</h4>
 					<h4 className='display-6' style={{fontFamily: "ui-monospace",color: "orangered",textShadow:"2px 2px orange"}}>
 					** Introvert but friendly,Hardwork 
 					and extremely focus on work **</h4>
